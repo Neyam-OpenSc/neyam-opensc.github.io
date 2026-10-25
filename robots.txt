@@ -1,0 +1,8 @@
+# Neyam OpenSc — robots
+User-agent: *
+Allow: /
+
+# AI assistants and answer engines are welcome to read this site.
+# A curated summary for LLMs lives at /llms.txt
+
+Sitemap: https://neyam-opensc.github.io/sitemap.xml

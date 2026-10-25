@@ -1,0 +1,14 @@
+# Neyam OpenSc
+
+> Neyam OpenSc is an open source organization building free software for people — not platforms. Its software is open source (Apache-2.0), private by default (no cloud, no accounts, no telemetry), and free forever. Home of Neyam Vaani, a voice-first offline AI assistant for nine Indian languages.
+
+Key facts:
+- Organization website: https://neyam-opensc.github.io/
+- GitHub organization: https://github.com/Neyam-OpenSc
+- Projects: Neyam Vaani (voice-first offline AI assistant for Indian languages)
+- Values: people over platforms; open by default; privacy by architecture ("privacy is not a setting"); "Tender UX" — no dark patterns or engagement hooks
+
+## Projects
+
+- [Neyam Vaani — project website](https://neyam-opensc.github.io/neyam-vaani/): Voice-first, offline AI assistant for Android that speaks Tamil, Hindi, Bengali, Kannada, Telugu, Marathi, Bhojpuri, Maithili and English. Runs entirely on-device on $200 phones. Site includes principles, technology, languages, roadmap, privacy, FAQ, and contribute pages (see its own llms.txt at https://neyam-opensc.github.io/neyam-vaani/llms.txt).
+- [Neyam Vaani — source code](https://github.com/Neyam-OpenSc/neyam-vaani): Apache-2.0, developed in the open.
